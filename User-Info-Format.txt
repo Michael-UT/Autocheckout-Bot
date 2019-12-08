@@ -1,0 +1,9 @@
+size (s for small, m for medium, l for large, xl for xlarge)
+full name
+email
+phone
+street address
+zipcode
+city
+cc month
+cc year
